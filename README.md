@@ -45,9 +45,7 @@
   <li>🤖 Natural Language Processing (NLP)
     <input type="checkbox" id="nlp" />
   </li>
-  <li>📱 توسعه اپلیکیشن موبایل
-    <input type="checkbox" id="mobile-development" />
-  </li>
+  
   <li>🔐 امنیت سایبری
     <input type="checkbox" id="cybersecurity" />
   </li>
