@@ -1,8 +1,7 @@
 <!-- تایپینگ انیمیشن خوش‌آمدگویی -->
 <div align="center" style="position: relative; overflow: hidden;">
   <h1 style="font-size: 3em; color: #FF69B4; text-shadow: 0 0 15px #FF69B4;">سلام! من محمدرضا سلیمانی هستم</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=برنامه‌نویس+هوش+مصنوعی+%7C+دانشجوی+IT;به+پروفایل+من+خوش+آمدید!+💻🚀" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com?
 
 ---
 
