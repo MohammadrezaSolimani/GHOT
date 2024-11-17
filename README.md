@@ -36,6 +36,7 @@
   <img src="https://github.com/MohammadrezaSolimani/readme-assets/blob/main/pie-chart-skills.png" width="400px" alt="Skill Pie Chart">
 </p>
 
+
 ---
 
 <!-- پروژه‌ها -->
