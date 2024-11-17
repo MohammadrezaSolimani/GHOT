@@ -56,6 +56,12 @@
 <img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
 
+
+
+<h3 align="left">🧠 Deep Learning | 5%</h3>
+<p align="center">
+  <img src="https://github.com/MohammadrezaSolimani/readme-assets/blob/main/deep-learning-pie-chart.png" width="300px" alt="Deep Learning Pie Chart">
+</p>
 ---
 
 <!-- پروژه‌ها -->
