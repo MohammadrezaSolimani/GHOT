@@ -31,10 +31,29 @@
 ---
 
 <!-- نمودار دایره‌ای مهارت‌ها -->
-<h2 align="center">📊 نمودار دایره‌ای مهارت‌های من:</h2>
-<p align="center">
-  <img src="https://github.com/MohammadrezaSolimani/readme-assets/blob/main/pie-chart-skills.png" width="400px" alt="Skill Pie Chart">
-</p>
+<!-- مهارت‌های برنامه‌نویسی -->
+<h2 align="center">🔥 مهارت‌های من:</h2>
+
+<h3 align="left">🖥 JavaScript | 80%</h3>
+<img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+
+<h3 align="left">🖥 HTML | 90%</h3>
+<img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+
+<h3 align="left">🖥 CSS | 90%</h3>
+<img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+
+<h3 align="left">🖥 C++ | 10%</h3>
+<img width="150px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+
+<h3 align="left">🖥 Python | 15%</h3>
+<img width="200px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+
+<h3 align="left">🖥 PHP | 20%</h3>
+<img width="200px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+
+<h3 align="left">🖥 Telegram Bot | 50%</h3>
+<img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
 
 ---
