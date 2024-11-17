@@ -1,8 +1,7 @@
 <!-- بخش خوش‌آمدگویی -->
 <div align="center">
   <h1 style="font-size: 3em; color: #0AF7E9; text-shadow: 0 0 20px #0AF7E9;">✨ سلام! من <span style="color: #FF69B4;">محمدرضا سلیمانی</span> هستم ✨</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=برنامه‌نویس+هوش+مصنوعی+%7C+دانشجوی+IT;به+پروفایل+من+خوش‌آمدید!+💻🚀" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com?
 
 ---
 
