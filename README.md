@@ -23,36 +23,44 @@
 
 ---
 
-<!-- نمودار مهارت‌ها -->
-<h2 align="center">📊 مهارت‌های برنامه‌نویسی من:</h2>
+<!-- نمودار دایره‌ای مهارت‌ها -->
+<h2 align="center">📊 نمودار مهارت‌های برنامه‌نویسی من:</h2>
+<div align="center">
+  <img src="https://quickchart.io/chart/render/sf-4373b0b1-42f1-49a2-b2b5-8a49b9c8c9f1" alt="Programming Skills Pie Chart" width="50%" />
+</div>
+
+---
+
+<!-- نمودار میله‌ای مهارت‌ها -->
+<h2 align="center">📈 مهارت‌های برنامه‌نویسی به درصد:</h2>
 <div align="center">
   <table>
     <tr>
-      <td>JavaScript</td>
+      <td><img src="https://skillicons.dev/icons?i=javascript" width="40"/> JavaScript</td>
       <td>
         <img src="https://progress-bar.dev/80/?title=JavaScript&color=FFDD44" width="300px"/>
       </td>
     </tr>
     <tr>
-      <td>HTML</td>
+      <td><img src="https://skillicons.dev/icons?i=html" width="40"/> HTML</td>
       <td>
         <img src="https://progress-bar.dev/90/?title=HTML&color=FF5733" width="300px"/>
       </td>
     </tr>
     <tr>
-      <td>CSS</td>
+      <td><img src="https://skillicons.dev/icons?i=css" width="40"/> CSS</td>
       <td>
         <img src="https://progress-bar.dev/90/?title=CSS&color=29B6F6" width="300px"/>
       </td>
     </tr>
     <tr>
-      <td>C++</td>
+      <td><img src="https://skillicons.dev/icons?i=cpp" width="40"/> C++</td>
       <td>
         <img src="https://progress-bar.dev/10/?title=C++&color=4CAF50" width="300px"/>
       </td>
     </tr>
     <tr>
-      <td>Python</td>
+      <td><img src="https://skillicons.dev/icons?i=python" width="40"/> Python</td>
       <td>
         <img src="https://progress-bar.dev/15/?title=Python&color=FFC107" width="300px"/>
       </td>
@@ -67,13 +75,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohammadrezaSolimani&show_icons=true&theme=radical&count_private=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=MohammadrezaSolimani&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<!-- نمودار دایره‌ای زبان‌ها -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammadrezaSolimani&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohammadrezaSolimani&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammadrezaSolimani&theme=radical" width="32%" />
 </div>
 
 ---
