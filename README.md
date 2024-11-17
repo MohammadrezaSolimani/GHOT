@@ -32,32 +32,6 @@
 
 <!-- نمودار دایره‌ای مهارت‌ها -->
 <!-- مهارت‌های برنامه‌نویسی -->
-<h2 align="center">🔥 مهارت‌های من:</h2>
-
-<h3 align="left">🖥 JavaScript | 80%</h3>
-<img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-
-<h3 align="left">🖥 HTML | 90%</h3>
-<img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-
-<h3 align="left">🖥 CSS | 90%</h3>
-<img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-
-<h3 align="left">🖥 C++ | 10%</h3>
-<img width="150px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-
-<h3 align="left">🖥 Python | 15%</h3>
-<img width="200px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-
-<h3 align="left">🖥 PHP | 20%</h3>
-<img width="200px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-
-<h3 align="left">🖥 Telegram Bot | 50%</h3>
-<img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-
-<h3 align="left"><h3 align="left"> 🧠 Deep Learning | 5%| 50%</h3>
-<img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
- 
 
 
 
