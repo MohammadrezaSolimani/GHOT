@@ -29,6 +29,29 @@
 </div>
 
 ---
+<!-- برنامه‌های آینده -->
+<h2 align="center">🚀 برنامه‌های آینده:</h2>
+<p align="center">
+  در آینده قصد دارم این مهارت‌ها را بیشتر تقویت کنم:
+</p>
+
+<ul align="left">
+  <li>🧠 Deep Learning
+    <input type="checkbox" id="deep-learning" />
+  </li>
+  <li>📊 Machine Learning
+    <input type="checkbox" id="machine-learning" />
+  </li>
+  <li>🤖 Natural Language Processing (NLP)
+    <input type="checkbox" id="nlp" />
+  </li>
+  <li>📱 توسعه اپلیکیشن موبایل
+    <input type="checkbox" id="mobile-development" />
+  </li>
+  <li>🔐 امنیت سایبری
+    <input type="checkbox" id="cybersecurity" />
+  </li>
+</ul>
 
 <!-- نمودار دایره‌ای مهارت‌ها -->
 <!-- مهارت‌های برنامه‌نویسی -->
