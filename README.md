@@ -1,6 +1,6 @@
 <!-- تایپینگ انیمیشن خوش‌آمدگویی -->
 <div align="center">
-  <h1 style="font-size: 3em; color: #FF69B4; text-shadow: 0 0 15px #FF69B4;">سلام! من محمدرضا سلیمانی هستم</h1>
+  <h1 style="font-size: 3em; color: #FF69B4; text-shadow: 0 0 15px #FF69B4;">👋 سلام! من محمدرضا سلیمانی هستم</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=برنامه‌نویس+هوش+مصنوعی+%7C+دانشجوی+IT;به+پروفایل+من+خوش+آمدید!+💻🚀" alt="Typing SVG" />
 </div>
 
@@ -18,7 +18,7 @@
 <h2 align="center">🎯 درباره من:</h2>
 <p align="center">
   من محمدرضا سلیمانی هستم؛ برنامه‌نویس هوش مصنوعی و توسعه‌دهنده بک‌اند. <br>
-  عاشق پروژه‌های یادگیری عمیق، تدریس و تولید محتوای آموزشی در زمینه هوش مصنوعی.
+  عاشق پروژه‌های یادگیری عمیق، تدریس و تولید محتوای آموزشی در زمینه هوش مصنوعی. 🤖✨
 </p>
 
 ---
@@ -26,20 +26,22 @@
 <!-- مهارت‌های برنامه‌نویسی به صورت متن و نمودار -->
 <h2 align="center">📊 مهارت‌های برنامه‌نویسی من:</h2>
 
-<h3 align="left">🖥 JavaScript | 80%</h3>
-<img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-
-<h3 align="left">🖥 HTML | 90%</h3>
-<img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-
-<h3 align="left">🖥 CSS | 90%</h3>
-<img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-
-<h3 align="left">🖥 C++ | 10%</h3>
-<img width="150px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-
-<h3 align="left">🖥 Python | 15%</h3>
-<img width="200px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<div align="center">
+  <h3>🖥️ JavaScript | 80%</h3>
+  <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+  
+  <h3>🖥️ HTML | 90%</h3>
+  <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+  
+  <h3>🖥️ CSS | 90%</h3>
+  <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+  
+  <h3>🖥️ C++ | 10%</h3>
+  <img width="150px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+  
+  <h3>🖥️ Python | 15%</h3>
+  <img width="200px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+</div>
 
 ---
 
@@ -49,6 +51,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MohammadrezaSolimani&show_icons=true&theme=radical&count_private=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=MohammadrezaSolimani&theme=radical&hide_border=true" width="48%" />
 </div>
+
+---
+
+<!-- پروژه‌های من -->
+<h2 align="center">🚀 پروژه‌های من:</h2>
+<p align="center">🔗 <a href="https://github.com/MohammadrezaSolimani/Project1">پروژه 1</a> | 🔗 <a href="https://github.com/MohammadrezaSolimani/Project2">پروژه 2</a> | 🔗 <a href="https://github.com/MohammadrezaSolimani/Project3">پروژه 3</a></p>
 
 ---
 
