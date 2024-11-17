@@ -1,83 +1,61 @@
-<!-- تایپینگ انیمیشن خوش‌آمدگویی -->
+<!-- پس‌زمینه پارالاکس و تایپینگ افکت خفن -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=سلام!+من+محمدرضا+سلیمانی+هستم!;برنامه‌نویس+هوش+مصنوعی+%7C+دانشجوی+IT;به+پروفایل+من+خوش+آمدید!+💻🚀" alt="Typing SVG" />
-</div>
-
-<!-- انیمیشن اسنیک -->
-<p align="center">
-  <img src="https://github.com/MohammadrezaSolimani/MohammadrezaSolimani/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
-<!-- ابزارها و تکنولوژی‌ها -->
-<h2 align="center">🛠️ ابزارهایی که استفاده می‌کنم:</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,ts,nodejs,python,django,flask,figma,git,linux&theme=light" alt="Skills" />
+  <div style="position: relative; overflow: hidden; width: 100%;">
+    <img src="https://i.imgur.com/9zS5bXf.gif" alt="Parallax Background" width="100%" style="filter: blur(8px); opacity: 0.8; position: absolute; z-index: -1;" />
+    <h1 style="font-size: 3em; color: #FFD700; text-shadow: 2px 2px #FF4500;">سلام! من محمدرضا سلیمانی هستم</h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=برنامه‌نویس+هوش+مصنوعی+%7C+دانشجوی+IT;به+پروفایل+گیت‌هاب+من+خوش+آمدید!+💻🚀" alt="Typing SVG" />
+  </div>
 </div>
 
 ---
 
-<!-- درباره من -->
-<h2 align="center">🎯 درباره من:</h2>
-<p align="center">
-  من محمدرضا سلیمانی هستم؛ برنامه‌نویس هوش مصنوعی و توسعه‌دهنده بک‌اند. <br>
-  عاشق پروژه‌های یادگیری عمیق، تدریس و تولید محتوای آموزشی در زمینه هوش مصنوعی.
-</p>
-
----
-
-<!-- آمار گیت‌هاب -->
-<h2 align="center">✨ آمار و دستاوردها:</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadrezaSolimani&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=MohammadrezaSolimani&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<!-- نمودار دایره‌ای زبان‌ها -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammadrezaSolimani&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohammadrezaSolimani&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammadrezaSolimani&theme=radical" width="32%" />
+<!-- نمایش سه‌بعدی مهارت‌ها -->
+<h2 align="center">⚙️ مهارت‌ها و تکنولوژی‌ها:</h2>
+<div align="center" style="perspective: 1000px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,ts,nodejs,python,django,flask,figma,github&theme=light" style="transform: rotateY(20deg); transition: all 0.5s;" onmouseover="this.style.transform='rotateY(0deg)';" onmouseout="this.style.transform='rotateY(20deg)';" />
 </div>
 
 ---
 
-<!-- نمودار فعالیت -->
-<h2 align="center">🔥 فعالیت من در گیت‌هاب:</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadrezaSolimani&theme=github-dark&bg_color=20232a&color=61dafb&line=f75c7e&point=ff6e96" alt="Contribution Graph" />
-</p>
-
----
-
-<!-- شبکه‌های اجتماعی -->
-<h2 align="center">🌐 ارتباط با من:</h2>
-<p align="center">
-  <a href="https://instagram.com/soleimani_mamadreza"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" /></a>
-  <a href="https://t.me/Solimani_reza"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" /></a>
-  <a href="mailto:mohamadrezasoelymani53@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" /></a>
-  <a href="https://github.com/MohammadrezaSolimani"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" /></a>
-</p>
-
----
-
-<!-- پروژه‌ها -->
-<h2 align="center">📚 پروژه‌های فعلی:</h2>
+<!-- کارت پروژه سه‌بعدی -->
+<h2 align="center">🚀 پروژه‌های من:</h2>
 <div align="center">
-  <a href="https://github.com/MohammadrezaSolimani/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadrezaSolimani&repo=project1&theme=radical" />
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="width: 300px; height: 200px; background: linear-gradient(135deg, #ff00cc 0%, #333399 100%); border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); transform: rotateY(20deg); transition: all 0.5s;" onmouseover="this.style.transform='rotateY(0deg)';" onmouseout="this.style.transform='rotateY(20deg)';">
+      <a href="https://github.com/MohammadrezaSolimani/project1" style="color: #fff; text-decoration: none; display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%;">
+        <h3>پروژه 1</h3>
+        <p>توضیحات کوتاه</p>
+      </a>
+    </div>
+    <div style="width: 300px; height: 200px; background: linear-gradient(135deg, #333399 0%, #ff00cc 100%); border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); transform: rotateY(-20deg); transition: all 0.5s;" onmouseover="this.style.transform='rotateY(0deg)';" onmouseout="this.style.transform='rotateY(-20deg)';">
+      <a href="https://github.com/MohammadrezaSolimani/project2" style="color: #fff; text-decoration: none; display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%;">
+        <h3>پروژه 2</h3>
+        <p>توضیحات کوتاه</p>
+      </a>
+    </div>
+  </div>
+</div>
+
+---
+
+<!-- نمودار فعالیت تعاملی -->
+<h2 align="center">📈 فعالیت‌های من:</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadrezaSolimani&theme=react-dark&bg_color=20232a&color=61dafb&line=f75c7e&point=ff6e96" alt="Contribution Graph" />
+</p>
+
+---
+
+<!-- افکت خوش آمد گویی و دکمه‌های تعاملی -->
+<h2 align="center">✨ از بازدید شما متشکرم!</h2>
+<div align="center">
+  <a href="https://instagram.com/soleimani_mamadreza" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #ff69b4; color: #fff; border: none; border-radius: 10px; cursor: pointer; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);">اینستاگرام</button>
   </a>
-  <a href="https://github.com/MohammadrezaSolimani/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadrezaSolimani&repo=project2&theme=radical" />
+  <a href="https://t.me/Solimani_reza" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #1DA1F2; color: #fff; border: none; border-radius: 10px; cursor: pointer; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);">تلگرام</button>
   </a>
-</div>
-
----
-
-<!-- پیام پایانی -->
-<h2 align="center">🎉 از بازدید شما متشکرم!</h2>
-<p align="center">اگر از پروفایل من خوشت اومده، یه ⭐ به پروژه‌هام بده!</p>
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
+  <a href="mailto:mohamadrezasoelymani53@gmail.com" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #dd4b39; color: #fff; border: none; border-radius: 10px; cursor: pointer; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);">ایمیل</button>
+  </a>
 </div>
