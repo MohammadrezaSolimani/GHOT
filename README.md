@@ -23,50 +23,23 @@
 
 ---
 
-<!-- نمودار دایره‌ای مهارت‌ها -->
-<h2 align="center">📊 نمودار مهارت‌های برنامه‌نویسی من:</h2>
-<div align="center">
-  <img src="https://quickchart.io/chart/render/sf-4373b0b1-42f1-49a2-b2b5-8a49b9c8c9f1" alt="Programming Skills Pie Chart" width="50%" />
-</div>
+<!-- مهارت‌های برنامه‌نویسی به صورت متن و نمودار -->
+<h2 align="center">📊 مهارت‌های برنامه‌نویسی من:</h2>
 
----
+<h3 align="left">🖥 JavaScript | 80%</h3>
+<img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
-<!-- نمودار میله‌ای مهارت‌ها -->
-<h2 align="center">📈 مهارت‌های برنامه‌نویسی به درصد:</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=javascript" width="40"/> JavaScript</td>
-      <td>
-        <img src="https://progress-bar.dev/80/?title=JavaScript&color=FFDD44" width="300px"/>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=html" width="40"/> HTML</td>
-      <td>
-        <img src="https://progress-bar.dev/90/?title=HTML&color=FF5733" width="300px"/>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=css" width="40"/> CSS</td>
-      <td>
-        <img src="https://progress-bar.dev/90/?title=CSS&color=29B6F6" width="300px"/>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=cpp" width="40"/> C++</td>
-      <td>
-        <img src="https://progress-bar.dev/10/?title=C++&color=4CAF50" width="300px"/>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=python" width="40"/> Python</td>
-      <td>
-        <img src="https://progress-bar.dev/15/?title=Python&color=FFC107" width="300px"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<h3 align="left">🖥 HTML | 90%</h3>
+<img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+
+<h3 align="left">🖥 CSS | 90%</h3>
+<img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+
+<h3 align="left">🖥 C++ | 10%</h3>
+<img width="150px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+
+<h3 align="left">🖥 Python | 15%</h3>
+<img width="200px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
 
 ---
 
