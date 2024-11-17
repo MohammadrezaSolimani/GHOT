@@ -19,13 +19,13 @@
 
 <!-- نمودار بار درصدی مهارت‌ها -->
 <div align="center">
-  <img src="https://progress-bar.dev/80/?title=JavaScript&color=ff69b4&width=300&suffix=%25">
-  <img src="https://progress-bar.dev/90/?title=HTML&color=ff4500&width=300&suffix=%25">
-  <img src="https://progress-bar.dev/90/?title=CSS&color=1e90ff&width=300&suffix=%25">
-  <img src="https://progress-bar.dev/10/?title=C++&color=00bfff&width=300&suffix=%25">
-  <img src="https://progress-bar.dev/15/?title=Python&color=3776ab&width=300&suffix=%25">
-  <img src="https://progress-bar.dev/20/?title=PHP&color=777bb4&width=300&suffix=%25">
-  <img src="https://progress-bar.dev/50/?title=Telegram%20Bot&color=0088cc&width=300&suffix=%25">
+  <img src="https://img.shields.io/badge/JavaScript-80%25-ff69b4?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-90%25-ff4500?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-90%25-1e90ff?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-10%25-00bfff?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-15%25-3776ab?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-20%25-777bb4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Telegram%20Bot-50%25-0088cc?style=for-the-badge&logo=telegram&logoColor=white">
 </div>
 
 ---
@@ -33,10 +33,7 @@
 <!-- نمودار دایره‌ای مهارت‌ها -->
 <h2 align="center">📊 نمودار دایره‌ای مهارت‌های من:</h2>
 <p align="center">
-  <img src="https://github-readme-chart.vercel.app/api/top-langs/?username=MohammadrezaSolimani&hide_title=true&layout=compact&card_width=300&langs_count=8&theme=tokyonight" width="45%">
-</p>
-<p align="center">
-  <img src="https://readme-pie-chart.vercel.app/api?colors=ff69b4,ff4500,1e90ff,00bfff,3776ab,777bb4,0088cc&values=80,90,90,10,15,20,50&names=JavaScript,HTML,CSS,C++,Python,PHP,Telegram%20Bot&inner_radius=50&radius=100&title=Programming%20Skills" width="300">
+  <img src="https://github.com/MohammadrezaSolimani/readme-assets/blob/main/pie-chart-skills.png" width="400px" alt="Skill Pie Chart">
 </p>
 
 ---
