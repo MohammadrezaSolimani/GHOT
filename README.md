@@ -1,7 +1,8 @@
 <!-- تایپینگ انیمیشن خوش‌آمدگویی -->
-<div align="center" style="position: relative; overflow: hidden;">
+<div align="center">
   <h1 style="font-size: 3em; color: #FF69B4; text-shadow: 0 0 15px #FF69B4;">سلام! من محمدرضا سلیمانی هستم</h1>
-  <img src="https://readme-typing-svg.demolab.com?
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=برنامه‌نویس+هوش+مصنوعی+%7C+دانشجوی+IT;به+پروفایل+من+خوش+آمدید!+💻🚀" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -19,6 +20,45 @@
   من محمدرضا سلیمانی هستم؛ برنامه‌نویس هوش مصنوعی و توسعه‌دهنده بک‌اند. <br>
   عاشق پروژه‌های یادگیری عمیق، تدریس و تولید محتوای آموزشی در زمینه هوش مصنوعی.
 </p>
+
+---
+
+<!-- نمودار مهارت‌ها -->
+<h2 align="center">📊 مهارت‌های برنامه‌نویسی من:</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td>JavaScript</td>
+      <td>
+        <img src="https://progress-bar.dev/80/?title=JavaScript&color=FFDD44" width="300px"/>
+      </td>
+    </tr>
+    <tr>
+      <td>HTML</td>
+      <td>
+        <img src="https://progress-bar.dev/90/?title=HTML&color=FF5733" width="300px"/>
+      </td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td>
+        <img src="https://progress-bar.dev/90/?title=CSS&color=29B6F6" width="300px"/>
+      </td>
+    </tr>
+    <tr>
+      <td>C++</td>
+      <td>
+        <img src="https://progress-bar.dev/10/?title=C++&color=4CAF50" width="300px"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>
+        <img src="https://progress-bar.dev/15/?title=Python&color=FFC107" width="300px"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -49,22 +89,9 @@
 
 ---
 
-<!-- پروژه‌ها -->
-<h2 align="center">📚 پروژه‌های فعلی:</h2>
-<div align="center">
-  <a href="https://github.com/MohammadrezaSolimani/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadrezaSolimani&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/MohammadrezaSolimani/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadrezaSolimani&repo=project2&theme=radical" />
-  </a>
-</div>
-
----
-
 <!-- پیام پایانی -->
 <h2 align="center">🎉 از بازدید شما متشکرم!</h2>
-<p align="center">اگر از پروفایل من خوشت اومده، یه ⭐ به پروژه‌هام بده!</p>
+<p align="center">اگر از پروفایل من خوشت اومده، لطفاً یه ⭐ به پروژه‌هام بده!</p>
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
 </div>
